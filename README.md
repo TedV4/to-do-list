@@ -1,1 +1,2 @@
 # to-do-list
+The goal of this project is to create a To-do list app that allows users to create projects and tasks that can be edited and stored locally. The purpose of this project is to practice using classes, modules, and SOLID principles. 
